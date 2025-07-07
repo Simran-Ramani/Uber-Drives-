@@ -82,10 +82,16 @@ Business-related purposes dominate mileage
 
 A small number of purposes account for most of the travel
 
-## Tools used
+## Tools & Technologies
+
+Power BI Desktop
+
+Power Query
+
+DAX (Data Analysis Expressions)
 
 SQL
 
-Power BI 
-
 Excel
+
+
