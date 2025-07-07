@@ -5,13 +5,13 @@ This project analyzes a dataset of Uber rides to extract meaningful business and
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 <img width="498" alt="Uber Drives Dashboard" src="https://github.com/user-attachments/assets/5b06efed-2f2c-4841-ba5d-9b5bab814357" />
 
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 
 The dataset includes details of individual Uber rides with the following fields:
 
