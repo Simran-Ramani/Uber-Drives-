@@ -1,7 +1,7 @@
 ## MY-Uber-Drives-
 # Uber Drives Analysis 
 
-This project analyzes a dataset of Uber rides to extract meaningful business and personal travel insights. Using Power BI, key performance indicators (KPIs) such as top speed, most frequent travel purpose, average miles, and trip distributions are visualized to uncover travel behavior patterns.
+This project analyzes a dataset of Uber rides to extract meaningful business and personal travel insights.  SQL was used to clean and transform the data, and Power BI was used to build an interactive dashboard for visual exploration. Using Power BI, key performance indicators (KPIs) such as top speed, most frequent travel purpose, average miles, and trip distributions are visualized to uncover travel behavior patterns.
 
 ---
 
